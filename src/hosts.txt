@@ -1,0 +1,16 @@
+#	127.0.0.1       localhost
+#	::1             localhost
+109.94.209.70      fitgirl-repacks.cc              # Fake FitGirl site
+109.94.209.70      fitgirl-repack.com              # Fake FitGirl site
+109.94.209.70      www.fitgirlrepacks.co           # Fake FitGirl site
+109.94.209.70      www.fitgirl-repacks.cc          # Fake FitGirl site
+109.94.209.70      www.fitgirl-repack.com          # Fake FitGirl site
+109.94.209.70      www.fitgirl-repacks.website     # Fake FitGirl site
+109.94.209.70      ww9.fitgirl-repacks.xyz         # Fake FitGirl site
+109.94.209.70      *.fitgirl-repacks.xyz           # Fake FitGirl site
+127.0.0.1      winbet.bg             # Fake FitGirl site
+109.94.209.70      fitgirl-repack.net              # Fake FitGirl site
+109.94.209.70      www.fitgirl-repack.net          # Fake FitGirl site
+109.94.209.70      fitgirlpack.site                # Fake FitGirl site
+
+127.0.0.1	winbet.bg
